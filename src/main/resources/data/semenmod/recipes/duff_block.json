@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": ["BBB", "BBB", "BBB"],
+  "key": { "B": { "item": "semenmod:duff_beer" } },
+  "result": { "item": "semenmod:duff_block" }
+}

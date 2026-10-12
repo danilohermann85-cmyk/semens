@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "semenmod:block/springfield_portal_ew" },
+    "axis=z": { "model": "semenmod:block/springfield_portal_ns" }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "semenmod:springfield",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "minecraft:plains",
+      "features": false,
+      "lakes": false,
+      "layers": [ { "block": "minecraft:air", "height": 1 } ],
+      "structure_overrides": []
+    }
+  }
+}

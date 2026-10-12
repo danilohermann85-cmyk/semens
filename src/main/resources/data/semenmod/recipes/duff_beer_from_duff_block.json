@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [ { "item": "semenmod:duff_block" } ],
+  "result": { "item": "semenmod:duff_beer", "count": 9 }
+}

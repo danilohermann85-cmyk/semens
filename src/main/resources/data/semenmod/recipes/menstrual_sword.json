@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    { "item": "semenmod:sanitary_pad" },
+    { "item": "semenmod:sanitary_pad" }
+  ],
+  "result": { "item": "semenmod:menstrual_sword" }
+}
